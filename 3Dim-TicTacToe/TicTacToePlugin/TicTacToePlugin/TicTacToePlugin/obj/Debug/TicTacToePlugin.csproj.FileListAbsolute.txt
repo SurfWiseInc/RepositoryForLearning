@@ -1,0 +1,13 @@
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\TicTacToePlugin.dll
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\TicTacToePlugin.pdb
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.dll
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.Server.dll
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.pdb
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.xml
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.Server.pdb
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\bin\Debug\DarkRift.Server.xml
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\obj\Debug\TicTacToePlugin.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\obj\Debug\TicTacToePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\obj\Debug\TicTacToePlugin.csproj.CopyComplete
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\obj\Debug\TicTacToePlugin.dll
+C:\Users\Adam\Documents\GitHub\RepositoryForLearning\3Dim-TicTacToe\TicTacToePlugin\TicTacToePlugin\TicTacToePlugin\obj\Debug\TicTacToePlugin.pdb
